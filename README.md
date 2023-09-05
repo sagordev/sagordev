@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on an Education Management Software (Spring Boot, ReactJs, Postgresql, Material UI)
 - 🌱 I’m currently learning various backend and frontend tools
-- 📫 How to reach me: https://sagor.dev
+- 📫 How to reach me: asadujjaman.sagor@gmail.com
 - ⚡ Fun fact: I love drawing
 
 ### :hammer_and_wrench: Languages and tools I've played on
